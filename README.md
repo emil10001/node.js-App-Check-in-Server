@@ -26,9 +26,9 @@ versions:
 </pre>
 
 Query:
-```bash
+<pre>
 curl -i http://pind.feigdev.com:3000/check_version
-```
+</pre>
 
 Result:
 <pre>
@@ -41,9 +41,9 @@ Transfer-Encoding: chunked
 </pre>
 
 Query:
-```bash
+<pre>
 curl -i http://pind.feigdev.com:3000/check_email?email=test@test.com
-```
+</pre>
 
 Result:
 <pre>
